@@ -3,4 +3,9 @@ git is a free software .
 
 add  some text here . 
 
-add some text 1 .
+
+在这里添加一句话。、
+
+
+这里又添加了一句话。
+git    has a  mutable index called stage .
