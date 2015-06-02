@@ -9,3 +9,4 @@ add  some text here .
 
 这里又添加了一句话。
 git    has a  mutable index called stage .
+git track changes .
